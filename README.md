@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**Krishadave19/Krishadave19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Krisha 👋
 
-Here are some ideas to get you started:
+### Computer Engineering Student | Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer who enjoys building modern, responsive
+web applications and solving real-world problems through code.
+
+- 🎓 Currently pursuing Computer Engineering
+- 💻 Learning Full-Stack Development
+- 🌱 Exploring React, Node.js, Express.js and MySQL
+- 🚀 Building projects to improve my development skills
+- 🎯 Preparing for software development opportunities
+
+### Tech Stack
+
+**Languages:** C, Java, JavaScript, Python
+
+**Frontend:** HTML, CSS, JavaScript, React.js, Material UI
+
+**Backend:** Node.js, Express.js
+
+**Database:** MySQL
+
+**Tools:** Git, GitHub, VS Code
+
+### Featured Projects
+
+- Hotel Booking Website
+- Salon Management System
+- Loan Default Prediction System
+
+### Connect with Me
+
+- LinkedIn: [Your LinkedIn URL]([https://linkedin.com](https://www.linkedin.com/in/krisha-dave-05343b339/))
+
+
